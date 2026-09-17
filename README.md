@@ -28,7 +28,7 @@ This finding was independently reproduced and cross-validated across three separ
 ├── sql/
 │   ├── schema_and_data_sqlserver.sql          # T-SQL schema + data load
 │   ├── queries_sqlserver.sql                  # 10 core queries (GL, trial balance, variance, discrepancy detection)
-├── power-bi/
+├── powerbi/
 │   ├── Power_BI_Source_Data.xlsx              # Clean source tables for the data model
 │   ├── Trailhead_Dashboard_Theme.json         # Custom report theme
 │   └── Food_Cost_Analysis_Dashboard_Pages.pdf     # Final 4-page dashboard
