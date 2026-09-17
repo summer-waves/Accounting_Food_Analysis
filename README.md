@@ -28,8 +28,6 @@ This finding was independently reproduced and cross-validated across three separ
 ├── sql/
 │   ├── schema_and_data_sqlserver.sql          # T-SQL schema + data load
 │   ├── queries_sqlserver.sql                  # 10 core queries (GL, trial balance, variance, discrepancy detection)
-│   ├── sql_round2_practice.sql                # Advanced practice prompts (window functions, correlated subqueries)
-│   └── sql_round2_solutions.sql               # Verified solutions
 ├── power-bi/
 │   ├── Power_BI_Source_Data.xlsx              # Clean source tables for the data model
 │   ├── Power_BI_Build_Guide.md                # Step-by-step build documentation
