@@ -1,0 +1,82 @@
+{
+  "name": "Trailhead Burger Co. Dashboard Theme",
+  "dataColors": [
+    "#1F77B4",
+    "#2CA02C",
+    "#FF7F0E",
+    "#9467BD",
+    "#17BECF",
+    "#D62728",
+    "#8C564B",
+    "#BCBD22"
+  ],
+  "background": "#FFFFFF",
+  "foreground": "#333333",
+  "tableAccent": "#1F77B4",
+  "good": "#2CA02C",
+  "neutral": "#FF7F0E",
+  "bad": "#D62728",
+  "maximum": "#1F77B4",
+  "center": "#FFFFFF",
+  "minimum": "#EAF3FB",
+  "visualStyles": {
+    "card": {
+      "*": {
+        "background": [
+          {
+            "color": { "solid": { "color": "#EAF3FB" } },
+            "transparency": 0
+          }
+        ],
+        "border": [
+          {
+            "show": true,
+            "color": { "solid": { "color": "#1F77B4" } },
+            "radius": 8
+          }
+        ],
+        "labels": [
+          {
+            "color": { "solid": { "color": "#1F3864" } },
+            "fontSize": 24,
+            "bold": true
+          }
+        ],
+        "categoryLabels": [
+          {
+            "color": { "solid": { "color": "#5B7CA6" } },
+            "fontSize": 11
+          }
+        ]
+      }
+    },
+    "tableEx": {
+      "*": {
+        "background": [{ "color": { "solid": { "color": "#FFFFFF" } } }],
+        "columnHeaders": [
+          {
+            "fontColor": { "solid": { "color": "#FFFFFF" } },
+            "backColor": { "solid": { "color": "#1F77B4" } },
+            "bold": true
+          }
+        ],
+        "total": [
+          {
+            "backColor": { "solid": { "color": "#EAF3FB" } },
+            "bold": true
+          }
+        ]
+      }
+    },
+    "page": {
+      "*": {
+        "background": [
+          {
+            "color": { "solid": { "color": "#FAFBFC" } },
+            "transparency": 0
+          }
+        ]
+      }
+    }
+  }
+}
