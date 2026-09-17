@@ -30,9 +30,8 @@ This finding was independently reproduced and cross-validated across three separ
 │   ├── queries_sqlserver.sql                  # 10 core queries (GL, trial balance, variance, discrepancy detection)
 ├── power-bi/
 │   ├── Power_BI_Source_Data.xlsx              # Clean source tables for the data model
-│   ├── Power_BI_Build_Guide.md                # Step-by-step build documentation
 │   ├── Trailhead_Dashboard_Theme.json         # Custom report theme
-│   └── Food_Cost_Analysis_Dashboard.pbix      # Final 4-page dashboard
+│   └── Food_Cost_Analysis_Dashboard_Pages.pdf     # Final 4-page dashboard
 └── README.md
 ```
 
