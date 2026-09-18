@@ -1,6 +1,6 @@
 # Trailhead Burger Co. — Restaurant Financial Analysis & Accounting Reconciliation
 
-A self-built portfolio project simulating the day-to-day work of an **Accounting Data Analyst** at a multi-location restaurant chain — built to practice the exact skill set in a real job posting (Excel, SQL/T-SQL, Power BI, journal entries, variance analysis, and discrepancy investigation).
+A self-built portfolio project simulating the day-to-day work at a multi-location restaurant chain — built to practice the exact skill set (Excel, SQL/T-SQL, Power BI, journal entries, variance analysis, and discrepancy investigation).
 
 ## The Business Scenario
 
