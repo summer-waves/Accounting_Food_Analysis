@@ -41,7 +41,3 @@ This finding was independently reproduced and cross-validated across three separ
 - Journal entries → general ledger → income statement flow
 - Budget vs. actual variance analysis (favorable/unfavorable classification)
 - Reconciliation and data-quality checks (automated unbalanced-transaction detection)
-
-## Why This Project
-
-Built to prepare for an Accounting Data Analyst role, with a focus on the specific gap between "can build a dashboard" and "understands where the numbers come from and how to investigate when they don't look right."
